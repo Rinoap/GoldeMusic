@@ -26,7 +26,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
 Userbot Telegram modular berjalan di Python3 dengan database sqlalchemy.
 
-Berdasarkan RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) And [ProjectDils](https://github.com/aidilaryanto/ProjectDils)
+Berdasarkan RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane) And [ProjectDils](https://github.com/Rino/GoldenMusic)
 
 **Generate String Using Replit⤵️**
 
